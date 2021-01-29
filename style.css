@@ -3,8 +3,9 @@
     object-fit: cover;
 }
 .darsJadvali{
-    height: 90vh;
+    height: 100%;
     width: 100%;
+    object-fit:cover;
 }
 
 
